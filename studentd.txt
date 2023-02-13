@@ -6,3 +6,5 @@ subjects: java,python,c
 Marks details :
 
 java : 75
+
+python : 74
