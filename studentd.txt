@@ -8,3 +8,5 @@ Marks details :
 java : 75
 
 python : 74
+
+c : 73
