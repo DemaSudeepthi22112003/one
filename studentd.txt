@@ -4,3 +4,5 @@ subjects: java,python,c
 
 
 Marks details :
+
+java : 75
