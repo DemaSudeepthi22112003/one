@@ -1,3 +1,6 @@
 Name : xxx
 roll no : 20rh1a04yy
 subjects: java,python,c
+
+
+Marks details :
